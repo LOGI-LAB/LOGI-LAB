@@ -64,7 +64,15 @@
 </a>
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=LOGI-LAB&show_icons=true&theme=gotham" alt="LOGI-LAB github stats" />
+
+![trophy](https://github-profile-trophy.vercel.app/?username=logi-lab&theme=juicyfresh&no-bg=true&no-frame=true&column=7&")
   
+  
+  
+<h1> <img src="https://www.icegif.com/wp-content/uploads/2022/01/icegif-225.gif" width="57px"> ᴄᴜʀʀᴇɴᴛʟʏ ᴏɴ sᴘᴏᴛɪғʏ </h1>
+
+[<img src="https://www.davidhill.org/wp-content/uploads/2020/04/200.gif" width="100%" />](https://open.spotify.com/user/312xrnxb6uehod7ib35bpzjmly5q)
+
    <p align="center"><a href="https://www.buymeacoffee.com/logesh" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-yellow.png" alt="Buy Me A Coffee" width="400" ></a>
 
 <div align="center">
